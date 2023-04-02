@@ -1,11 +1,9 @@
 ---
+layout: post
 title: "expresiones regulares para parsear un RSS o XML"
 date: "2008-04-24"
-categories: 
-  - "php"
-tags: 
-  - "expresiones-regulares"
-  - "librerias-y-funciones"
+categories: php
+tags: ["expresiones-regulares","librerias-y-funciones"]
 coverImage: "url-regex-1.jpg"
 ---
 
