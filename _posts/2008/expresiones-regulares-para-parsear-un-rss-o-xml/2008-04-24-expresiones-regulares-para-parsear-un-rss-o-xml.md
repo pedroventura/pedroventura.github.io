@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "expresiones regulares para parsear un RSS o XML"
+title: "expresiones regulares para parsear un RSS o XML con PHP"
 date: "2008-04-24"
 categories: php
 tags: ["expresiones-regulares","librerias-y-funciones"]
 coverImage: "url-regex-1.jpg"
+published: true
 ---
+
+![Expresiones Regulares para parsear un RSS en PHP](images/url-regex-1.jpg)
 
 En este post voy a explicar como eliminar un contenido determinado ya sea una imagen o una etiqueta HTML, que no queremos que salga cuando parseamos el RSS o XML mediante expresiones regulares con la funcion `preg_match`
 
