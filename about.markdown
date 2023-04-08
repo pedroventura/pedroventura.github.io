@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Sobre Mi
-permalink: /about/
+permalink: /sobre-mi/
 ---
 
 <h1 class="entry-title">Bienvenid@ a mi Blog</h1>
+
 
 ![Bienvenid@ a mi Blog](/assets/images/2023/0_20200605233500019_20201223160017910-150x150.jpg)
 

@@ -1,9 +1,10 @@
 ---
 layout: page
 permalink: /categorias/
-title: Artículos clasificados por categorias
+title: Categorías
 ---
 
+<h1 class="entry-title">Artículos clasificados por categorias</h1>
 
 <div id="archives">
 {% for category in site.categories %}
