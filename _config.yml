@@ -33,12 +33,9 @@ plugins:
   - jekyll-archives
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-paginate
 
 include: ['_pages']
 
-paginate: 6
-paginate_path: /page:num/
 
 jekyll-archives:
   enabled: all
